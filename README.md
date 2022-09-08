@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wpiroupo
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning more about Machine Learning
 - 📫 How to reach me: wpiroupo@gmail.com
 
 <!---
